@@ -8,8 +8,8 @@ parentDirectory = "/Users/lawalabdulganiy/Downloads"
 sourceFolder = "/Users/lawalabdulganiy/Downloads"
 destinationFolder = "/Users/lawalabdulganiy/Downloads"
 
-myFiles = {'pdf': 'Pdf File', 'png': 'Image File', 'svg': 'Svg file',
-           'jpeg': 'Image File', 'pkt': 'Packet Tracer File', 'dmg': 'Application File', 'mp4': 'Movies File', 'docx': 'word Files', 'ppt': 'powerpoint File', 'xlsx': 'Excel FIles', 'pptx': 'powerpoint File', 'zip': 'Zipped Files', '7z': 'Zipped Files', }
+myFiles = {'pdf': 'Pdf File', 'png': 'Picture File', 'svg': 'Svg file',
+           'jpeg': 'Picture File', 'pkt': 'PacketTracer File', 'dmg': 'Application File', 'mp4': 'Video File', 'docx': 'word Files', 'ppt': 'powerpoint File', 'xlsx': 'Excel FIles', 'pptx': 'powerpoint File', 'zip': 'Zipped Files', '7z': 'Zipped Files', }
 
 
 def File_Move(myFiles):
