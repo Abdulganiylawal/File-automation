@@ -1,0 +1,1 @@
+step 1: Get all the files on my download folder into a dict 
